@@ -107,7 +107,7 @@ import { TextInput } from 'react-native';
 - Add the TextInput component
 ``` javascript
 <TextInput 
-                style={styles.input}
-                placeholder='e.g. John Doe' 
-                onChangeText={(val)=> setName(val)}/>
+    style={styles.input}
+    placeholder='e.g. John Doe' 
+    onChangeText={(val)=> setName(val)}/>
 ```
