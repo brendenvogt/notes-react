@@ -4,3 +4,4 @@
 - [Install](./Install.md)
 - [Development Intro](./DevelopmentIntro.md)
 - [State](./State.md)
+- [Text Input](./TextInput.md)
