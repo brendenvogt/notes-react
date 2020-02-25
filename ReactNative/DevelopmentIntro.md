@@ -69,3 +69,18 @@ const styles = StyleSheet.create({
   }
 });
 ```
+
+### Inheritance
+Inheritance only applies to nested Text components. 
+
+For example:
+``` javascript
+//...
+<Text style={styles.boldText}> Hello <Text> There </Text></Text>
+//...
+const styles = StyleSheet.create({
+  boldText: {
+    boldText: 'center'
+  }
+});
+```
