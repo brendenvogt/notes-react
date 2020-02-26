@@ -1,0 +1,47 @@
+# Samples and Demos
+A collection of good open source apps and components.
+- [react-ui-kit github](https://github.com/react-ui-kit) is a github user that provides dribbble ui mockups and supporting react native source code. Most of his code is in [Dribble2React](https://github.com/brendenvogt/dribbble2react) which I've forked on my Repo.
+  - Components and location
+    - Driving AI Assistant App
+      - Various Card Like Components
+      - Hamburger menu
+      - Hovering Nav Button
+      - Circular progress bar (with gradient)
+      - Horizontal progress bar (with gradient)
+      - Map component
+      - Coach Marks (as a popover view)
+    - Plant App
+      - Landing Page
+        - Title Labels (Multi Color)
+        - Image Carousel with dots Component
+        - Gradient Buttons Component (White and Gradient)
+      - Terms of Service Page 
+        - Title Label
+        - TextView
+        - Gradient Accept Button
+      - Login and Sign Up page
+        - Title Label
+        - Text Field (Password and normal)
+        - Gradient Button
+      - Home Page
+        - Title Label
+        - Profile Circular Image
+        - Toolbar Tabs
+        - Main Content Collection View
+      - Settings Page
+        - Title Label
+        - Profile Circular Image
+        - Input Field (with context label)
+        - Horizontal Slider (with context label)
+        - Switch
+      - Explore Page
+        - Search Bar
+        - Collection View with multi size cells
+        - Hover Gradient button
+        - Possible Gradient at bottom of page over main content
+      - Detail Page
+        - Main Title Image
+        - Title Label
+        - Snack Tags (Rounded views with text)
+        - TextView
+        - Image Gallery
