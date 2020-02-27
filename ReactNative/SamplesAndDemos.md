@@ -30,7 +30,7 @@ A collection of good open source apps and components.
         - Main Content Collection View
       - Settings Page
         - Title Label
-        - Profile Circular Image
+        - Profile Circular Imaged
         - Input Field (with context label)
         - Horizontal Slider (with context label)
         - Switch
@@ -45,3 +45,57 @@ A collection of good open source apps and components.
         - Snack Tags (Rounded views with text)
         - TextView
         - Image Gallery
+    - Blood Donation App
+      - Various Cards
+      - Circular Profile Button
+      - Graph Chart with Deltas and Percentages
+      - Recent Updates Collection
+    - Smart Home UI
+      - "Hello John Doe" Title
+      - Mini Chart Graph
+      - Circular buttons with image
+      - Large Temperature Text View
+      - Horizontal Sliders
+      - Bar Chart Single Vertical with gradient
+    - Velocity View Kit App
+      - Aggregate page
+        - Segmented Circular Meter
+        - Snack Info Cards
+        - Map with waypoint POI markers
+        - Line Chart
+        - Tab Bar Left Justified
+      - Service Reminders Page
+        - Categorized Card Rows
+        - Nav bar with drop down
+        - Donut Chart (Pie chart) with legend
+      - Sign up page
+        - Split View (Image and Form)
+        - Title 
+        - Text
+        - Radial Card Selection
+        - Input field
+        - Button
+      - My Requests
+        - Profile Title
+          - Circular image
+          - Title
+          - Subtitle
+        - Side by side button
+        - Horizontal row of snack cells
+        - Sort and filter row
+    - Camp Spot finder
+      - Map Page
+        - Map with points of interest markers
+        - Toolbar tab
+        - Current context drop down
+        - Settings Gear
+        - Row Item with rating
+        - Star Rating
+        - Destination distance
+        - More Dots
+      - Filter Page
+        - Segmented picker with Text and category title
+        - Segmented picker with Image and Text and category title
+        - Switch
+    - Travel App
+      - 
